@@ -11,10 +11,13 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+![image](https://github.com/Jitendranarayan/totalitycorp-frontend-challenge/assets/120246562/626bbece-b6ea-40d1-98ee-8fed2311b2cc)
+
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `npm test
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
