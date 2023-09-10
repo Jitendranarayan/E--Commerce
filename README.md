@@ -12,6 +12,14 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![image](https://github.com/Jitendranarayan/totalitycorp-frontend-challenge/assets/120246562/626bbece-b6ea-40d1-98ee-8fed2311b2cc)
+![image](https://github.com/Jitendranarayan/totalitycorp-frontend-challenge/assets/120246562/bb97984d-5d7b-417d-b65d-ccf993e9ff46)
+![image](https://github.com/Jitendranarayan/totalitycorp-frontend-challenge/assets/120246562/cf35f2e9-a1c4-4838-86fa-04edd1698b1e)
+![image](https://github.com/Jitendranarayan/totalitycorp-frontend-challenge/assets/120246562/5aaa9cdc-5637-4346-a6a9-bb8ac283759c)
+![image](https://github.com/Jitendranarayan/totalitycorp-frontend-challenge/assets/120246562/273c4de6-d9a5-40ea-8411-07c2faeb3ad3)
+
+
+
+
 
 
 The page will reload when you make changes.\
